@@ -28,7 +28,7 @@ class Solution:
                 return False
         return True
 
-    def isUnique(self, string):
+    def isUnique_by_hashmap(self, string):
 
         hash_map = dict()
 
@@ -42,8 +42,8 @@ class Solution:
 str1 = "abcd"
 str2 = "ABcdBea"
 A = Solution()
-print(A.isUnique(str1))
+print(A.isUnique_by_hashmap(str1))
 print(A.isUnique_by_count(str1))
 
-print(A.isUnique(str2))
+print(A.isUnique_by_hashmap(str2))
 print(A.isUnique_by_count(str2))
