@@ -13,7 +13,7 @@ Python求职面试经验宝典
 
 # 六、数据库
 
-# 七、Pyhton Web框架
+# 七、Python Web框架
 
 # 八、爬虫
 
