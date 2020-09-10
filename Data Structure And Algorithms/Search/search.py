@@ -2,7 +2,7 @@
 # @Time      : 2020-04-11 07:41
 # @Author    : yuzhou_1su
 # @ContactMe : https://blog.csdn.net/yuzhou_1shu
-# @File      : binary_search.py
+# @File      : search.py
 # @Software  : PyCharm
 
 class Solution:
