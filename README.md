@@ -1,10 +1,9 @@
-[TOC]
-
-
 
 # cracking-the-python-interview
 
-> 制作这份笔记的灵感来自于：CycNotes
+学习👨‍🎓学习👩‍🎓再学习⛰️
+
+> 制作这份笔记的灵感来自于：[CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)
 
 Python求职面试经验宝典，待🥣完整
 
