@@ -1,11 +1,18 @@
-
 # cracking-the-python-interview
 
 学习👨‍🎓学习👩‍🎓再学习⛰️
 
 > 制作这份笔记的灵感来自于：[CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)
 
-Python求职面试经验宝典，待🥣完整
+Python求职面试经验宝典，待🥣完整...
+
+## 目录
+
+[一、Python语法相关](# 一、Python语法相关)
+
+[二、Python数据结构与算法](# 二、Python数据结构与算法)
+
+[三、Python高级知识](# 三、Python高级知识)
 
 # 一、Python语法相关
 
