@@ -56,6 +56,8 @@ Python求职面试经验宝典，待🥣完整...
 
 ### 链表
 
+[链表题常考题及解题套路](https://github.com/yuzhouStayHungry/cracking-the-python-interview/blob/master/%E9%93%BE%E8%A1%A8%E5%B8%B8%E8%80%83%E9%A2%98%E5%8F%8A%E8%A7%A3%E9%A2%98%E5%A5%97%E8%B7%AF.md)
+
 ### 栈和队列
 
 
