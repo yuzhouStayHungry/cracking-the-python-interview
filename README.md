@@ -8,11 +8,11 @@ Python求职面试经验宝典，待🥣完整...
 
 ## 目录
 
-[一、Python语法相关](#一、Python语法相关)
+[一、Python语法相关](#一Python语法相关)
 
-[二、Python数据结构与算法](#二、Python数据结构与算法)
+[二、Python数据结构与算法](#二Python数据结构与算法)
 
-[三、Python高级知识](#三、Python高级知识)
+[三、Python高级知识](#三Python高级知识)
 
 # 一、Python语法相关
 
