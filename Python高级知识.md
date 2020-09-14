@@ -19,7 +19,11 @@
 
 ## 3.2 深拷贝和浅拷贝
 
-[学习Python一年，这次终于弄懂了浅拷贝和深拷贝](https://yuzhoustayhungry.github.io/post/%E6%B7%B1%E6%8B%B7%E8%B4%9D%E5%92%8C%E6%B5%85%E6%8B%B7%E8%B4%9D/)
+> 之前的文章：[学习Python一年，这次终于弄懂了浅拷贝和深拷贝](https://yuzhoustayhungry.github.io/post/%E6%B7%B1%E6%8B%B7%E8%B4%9D%E5%92%8C%E6%B5%85%E6%8B%B7%E8%B4%9D/)
+
+浅拷贝和深拷贝的区别？
+
+
 
 ## 3.3 迭代器和生成器
 

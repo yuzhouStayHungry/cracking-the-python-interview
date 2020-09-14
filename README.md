@@ -14,6 +14,18 @@ Python求职面试经验宝典，待🥣完整...
 
 [三、Python高级知识](#三Python高级知识)
 
+[四、操作系统](#四操作系统)
+
+[五、网络编程](五网络编程)
+
+[六、数据库](六数据库)
+
+[七、Python Web框架](七Python Web框架)
+
+[八、爬虫](#八爬虫)
+
+[九、数据分析](#九数据分析)
+
 # 一、Python语法相关
 
 [Python入门，看这一篇就够了]()
@@ -111,6 +123,8 @@ Python求职面试经验宝典，待🥣完整...
 # 三、Python高级知识
 
 
+
+[python高级知识点](https://github.com/yuzhouStayHungry/cracking-the-python-interview/blob/master/Python%E9%AB%98%E7%BA%A7%E7%9F%A5%E8%AF%86.md)
 
 # 四、操作系统
 
