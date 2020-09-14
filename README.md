@@ -46,9 +46,13 @@ Python求职面试经验宝典，待🥣完整...
 
 # 二、Python数据结构与算法
 
+
+
 ## 2.1 数据结构之深度解析
 
-###数组
+
+
+### 数组
 
 ### 字符串
 
@@ -106,41 +110,7 @@ Python求职面试经验宝典，待🥣完整...
 
 # 三、Python高级知识
 
-## 3.1 垃圾回收
 
-[深入理解Python内存管理与垃圾回收，再也不怕问了（一）](https://yuzhoustayhungry.github.io/post/python内存管理与垃圾回收/)
-
-[也来说说Python的垃圾回收机制？](https://yuzhoustayhungry.github.io/post/python%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6/)
-
-## 3.2 深拷贝和浅拷贝
-
-[学习Python一年，这次终于弄懂了浅拷贝和深拷贝](https://yuzhoustayhungry.github.io/post/%E6%B7%B1%E6%8B%B7%E8%B4%9D%E5%92%8C%E6%B5%85%E6%8B%B7%E8%B4%9D/)
-
-## 3.3 迭代器和生成器
-
-
-
-### 3.4 装饰器 @decorator
-
-
-
-### 3.5 List vs. tuple
-
-
-
-### 3.6 *args 和 *kwargs
-
-
-
-## 3.7 错误处理、异常机制
-
-
-
-## 3.8 函数式编程、闭包
-
-
-
-## 3.9 函数参数
 
 # 四、操作系统
 
