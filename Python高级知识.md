@@ -42,15 +42,49 @@
 
 ### 3.4 装饰器 @decorator
 
+`@`符号是装饰器的语法糖，在定义函数的时候使用，避免再一次赋值操作
+
+```python
+import time
+
+
+def time_function(f):
+    def wrapper(*args, **kwargs):
+        begin = time.time()
+        result = f(*args, **kwargs)
+        end = time.time()
+        print("Function call with argument {all_args} took ".format(
+            all_args="\t".join((str(args), str(kwargs)))) + str(end - begin) +
+              " seconds to execute.")
+        return result
+
+    return wrapper
+```
+
 
 
 ### 3.5 List vs. tuple
 
+Lists`[1, 4, 7, "apple", 4]`,  Tuple`(3.14, "PI", 2,43, "e")`
 
+**相同点：**都是容器，且都能存放不同类型的数据，都能进行索引进行访问`a[i]`
+
+**不同点：** 元组的是不可变的，不能改变索引`a[i]`的值，也不能从元组中增加/删除元素；但是列表可以。
+
+不可变带来的好处：性能提升，容器友好，线程安全。元祖可以放在集合`set`中并用作键值，但列表不行。创建元组和访问速度稍快，并且内存占用量较小。
 
 ### 3.6 *args 和 *kwargs
 
+都是用于函数中传递可变参数。`*arg`用于传递可变长度的参数列表:
 
+- 在函数中引用的参数称为`args`并不重要-它也可以称为`A`或`varargs`,`args`是习惯用法；
+- `*`必须跟着常规参数后面
+
+第二个参数`** kwargs`在将可变数量的关键字参数传递给函数时使用。
+
+- 将函数中引用的参数称为`args`并不重要，也可以将其称为D或argdict。
+- `**`参数必须出现在所有常规命名参数和`*`参数之后
+- 关键字实参与命名实参有很大不同，其中命名实参的名称在函数本身中指定
 
 ## 3.7 错误处理、异常机制
 
