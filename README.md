@@ -34,27 +34,27 @@ Python求职面试经验宝典，待🥣完整...
 
 ## Python基础
 
-变量和类型
+- 变量和类型
 
-列表和字符串
+- 列表和字符串
 
-函数
+- 函数
 
-类
+- 类
 
-模块和包
+- 模块和包
 
 ## Python进阶
 
-列表、元组、字符串
+- 列表、元组、字符串
 
-字典、集合
+- 字典、集合
 
-内置函数
+- 内置函数
 
-函数进阶
+- 函数进阶
 
-类进阶
+- 类进阶
 
 # 二、Python数据结构与算法
 
@@ -64,15 +64,13 @@ Python求职面试经验宝典，待🥣完整...
 
 
 
-### 数组
+###  数组
 
 ### 字符串
 
-
-
 ### 链表
 
-[链表题常考题及解题套路](https://github.com/yuzhouStayHungry/cracking-the-python-interview/blob/master/%E9%93%BE%E8%A1%A8%E5%B8%B8%E8%80%83%E9%A2%98%E5%8F%8A%E8%A7%A3%E9%A2%98%E5%A5%97%E8%B7%AF.md)
+- [链表题常考题及解题套路](https://github.com/yuzhouStayHungry/cracking-the-python-interview/blob/master/notes/%E9%93%BE%E8%A1%A8%E5%B8%B8%E8%80%83%E9%A2%98%E5%8F%8A%E8%A7%A3%E9%A2%98%E5%A5%97%E8%B7%AF.md)
 
 ### 栈和队列
 
@@ -86,15 +84,9 @@ Python求职面试经验宝典，待🥣完整...
 
 ### 查找
 
-- 二分查找★★★★☆
+- [查找常考知识点](https://github.com/yuzhouStayHungry/cracking-the-python-interview/blob/master/%E6%9F%A5%E6%89%BE%E7%AE%97%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9%E5%AD%A6%E4%B9%A0.md)
 
-- 顺序查找
-
-- 索引查找
-
-[查找常考知识点](https://github.com/yuzhouStayHungry/cracking-the-python-interview/blob/master/%E6%9F%A5%E6%89%BE%E7%AE%97%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9%E5%AD%A6%E4%B9%A0.md)
-
-### 哈希表
+###  哈希表
 
 ### 排序
 
@@ -102,15 +94,16 @@ Python求职面试经验宝典，待🥣完整...
 
 - 归并排序★★★★☆
 
-[各大排序算法代码和总结](https://github.com/yuzhouStayHungry/cracking-the-python-interview/blob/master/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9%E5%AD%A6%E4%B9%A0.md)
+[各大排序算法代码和总结](https://github.com/yuzhouStayHungry/cracking-the-python-interview/blob/master/notes/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9%E5%AD%A6%E4%B9%A0.md)
 
-### 二叉搜索树
+### 多路平衡查找树
 
-
+- B树
+- B+树
 
 ## 2.2 算法之深度解析
 
-- [常考算法及其套路深度解析](https://github.com/yuzhouStayHungry/cracking-the-python-interview/blob/master/%E5%B8%B8%E8%80%83%E7%AE%97%E6%B3%95%E5%8F%8A%E5%A5%97%E8%B7%AF%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90.md)
+- [常考算法及其套路深度解析](https://github.com/yuzhouStayHungry/cracking-the-python-interview/blob/master/notes/%E5%B8%B8%E8%80%83%E7%AE%97%E6%B3%95%E5%8F%8A%E5%A5%97%E8%B7%AF%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90.md)
 
 - 递归
 
@@ -124,13 +117,13 @@ Python求职面试经验宝典，待🥣完整...
 
 
 
-[python高级知识点](https://github.com/yuzhouStayHungry/cracking-the-python-interview/blob/master/Python%E9%AB%98%E7%BA%A7%E7%9F%A5%E8%AF%86.md)
+[Python高级知识点](https://github.com/yuzhouStayHungry/cracking-the-python-interview/blob/master/notes/Python%E9%AB%98%E7%BA%A7%E7%9F%A5%E8%AF%86.md)
 
 # 四、操作系统
 
-[操作系统核心知识点总结](https://github.com/yuzhouStayHungry/the_Element_Of_IT_Interview/blob/master/2020%E6%A0%B8%E5%BF%83%E9%9D%A2%E8%AF%95%E9%A2%98--%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.md)
+- [操作系统核心知识点总结](https://github.com/yuzhouStayHungry/the_Element_Of_IT_Interview/blob/master/2020%E6%A0%B8%E5%BF%83%E9%9D%A2%E8%AF%95%E9%A2%98--%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.md)
 
-[为什么校招面试中“线程与进程的区别”老是被问到?我该如何回答？](https://yuzhoustayhungry.github.io/post/%E7%BA%BF%E7%A8%8B%E4%B8%8E%E8%BF%9B%E7%A8%8B/)
+> [为什么校招面试中“线程与进程的区别”老是被问到?我该如何回答？](https://zhuanlan.zhihu.com/p/125716637)
 
 # 五、网络编程
 
@@ -138,21 +131,35 @@ Python求职面试经验宝典，待🥣完整...
 
 # 六、数据库
 
-[数据库必看知识点](https://github.com/yuzhouStayHungry/the_Element_Of_IT_Interview/blob/master/2020%E6%A0%B8%E5%BF%83%E9%9D%A2%E8%AF%95%E9%A2%98--MySQL.md)
+- [数据库必看知识点](https://github.com/yuzhouStayHungry/the_Element_Of_IT_Interview/blob/master/2020%E6%A0%B8%E5%BF%83%E9%9D%A2%E8%AF%95%E9%A2%98--MySQL.md)
 
 SQL vs. NoSQL
 
 # 七、Python Web框架
 
-Flask
+## Flask
 
-Django
+## Django
 
-Tornado
+- [Django 入门笔记](https://blog.csdn.net/yuzhou_1shu/category_9419274.html)
+- Django 进阶
+- [Django API开发](https://yuzhoustayhungry.github.io/tags/django/)
+
+## Tornado
 
 # 八、爬虫
 
 # 九、数据分析
+
+# 十、编程思想
+
+## 面向对象
+
+- [面向对象设计](https://github.com/yuzhouStayHungry/cracking-the-python-interview/blob/master/notes/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%AE%BE%E8%AE%A1.md)
+
+## 设计模式
+
+## 系统设计
 
 # 其它
 
