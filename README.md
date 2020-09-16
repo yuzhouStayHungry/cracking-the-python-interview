@@ -20,7 +20,7 @@ Python求职面试经验宝典，待🥣完整...
 
 - [六、数据库](#六数据库)
 
-- 七、Python Web框架
+- [七、Python Web框架](#七python-web框架)
 
 - [八、爬虫](#八爬虫)
 
@@ -110,13 +110,15 @@ Python求职面试经验宝典，待🥣完整...
 
 ## 2.2 算法之深度解析
 
-### 递归
+- [常考算法及其套路深度解析](https://github.com/yuzhouStayHungry/cracking-the-python-interview/blob/master/%E5%B8%B8%E8%80%83%E7%AE%97%E6%B3%95%E5%8F%8A%E5%A5%97%E8%B7%AF%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90.md)
 
-### 动态规划
+- 递归
 
-### 贪心算法
+- 动态规划
 
-### 并行计算
+- 贪心算法
+
+- 并行计算
 
 # 三、Python高级知识
 
