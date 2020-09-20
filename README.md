@@ -32,29 +32,10 @@ Python求职面试经验宝典，待🥣完整...
 
 [大人们，时代变了，你为什么还不学Python？]()
 
-## Python基础
+- Python基础
+- Python进阶
 
-- 变量和类型
 
-- 列表和字符串
-
-- 函数
-
-- 类
-
-- 模块和包
-
-## Python进阶
-
-- 列表、元组、字符串
-
-- 字典、集合
-
-- 内置函数
-
-- 函数进阶
-
-- 类进阶
 
 # 二、Python数据结构与算法
 
@@ -64,37 +45,16 @@ Python求职面试经验宝典，待🥣完整...
 
 
 
-###  数组
-
-### 字符串
-
-### 链表
-
-- [链表题常考题及解题套路](https://github.com/yuzhouStayHungry/cracking-the-python-interview/blob/master/notes/%E9%93%BE%E8%A1%A8%E5%B8%B8%E8%80%83%E9%A2%98%E5%8F%8A%E8%A7%A3%E9%A2%98%E5%A5%97%E8%B7%AF.md)
-
-### 栈和队列
-
+- 数组
+- 字符串
+- 链表 -- [链表题常考题及解题套路](https://github.com/yuzhouStayHungry/cracking-the-python-interview/blob/master/notes/%E9%93%BE%E8%A1%A8%E5%B8%B8%E8%80%83%E9%A2%98%E5%8F%8A%E8%A7%A3%E9%A2%98%E5%A5%97%E8%B7%AF.md)
+- 栈和队列
+- 二叉树
+- 堆
+- 图
+-  哈希表
 
 
-### 二叉树
-
-### 堆
-
-### 图
-
-### 查找
-
-- [查找常考知识点](https://github.com/yuzhouStayHungry/cracking-the-python-interview/blob/master/%E6%9F%A5%E6%89%BE%E7%AE%97%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9%E5%AD%A6%E4%B9%A0.md)
-
-###  哈希表
-
-### 排序
-
-- 快速排序★★★★★
-
-- 归并排序★★★★☆
-
-[各大排序算法代码和总结](https://github.com/yuzhouStayHungry/cracking-the-python-interview/blob/master/notes/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9%E5%AD%A6%E4%B9%A0.md)
 
 ### 多路平衡查找树
 
@@ -104,14 +64,12 @@ Python求职面试经验宝典，待🥣完整...
 ## 2.2 算法之深度解析
 
 - [常考算法及其套路深度解析](https://github.com/yuzhouStayHungry/cracking-the-python-interview/blob/master/notes/%E5%B8%B8%E8%80%83%E7%AE%97%E6%B3%95%E5%8F%8A%E5%A5%97%E8%B7%AF%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90.md)
-
 - 递归
-
 - 动态规划
-
-- 贪心算法
-
+- 贪心法
 - 并行计算
+- 查找算法-- [查找常考知识点](https://github.com/yuzhouStayHungry/cracking-the-python-interview/blob/master/%E6%9F%A5%E6%89%BE%E7%AE%97%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9%E5%AD%A6%E4%B9%A0.md)
+- 排序算法 -- [各大排序算法代码和总结](https://github.com/yuzhouStayHungry/cracking-the-python-interview/blob/master/notes/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E7%9F%A5%E8%AF%86%E7%82%B9%E5%AD%A6%E4%B9%A0.md)
 
 # 三、Python高级知识
 
