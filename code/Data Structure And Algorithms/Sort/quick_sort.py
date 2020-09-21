@@ -37,7 +37,23 @@ def quick_sort(gList, left=0, right=None) -> list:
     return gList
 
 
+def quicksort(array):
+    less = []
+    greater = []
+    if len(array) <= 1:
+        return array
+    pivot = array.pop()
+    for x in array:
+        if x <= pivot:
+            less.append(x)
+        else:
+            greater.append(x)
+    return quicksort(less) + [pivot] + quicksort(greater)
+
+
 if __name__ == '__main__':
     gList = [3, 5, 2, 4, 1, 6, 7]
     print("----排序前:", gList)
     print("----快速排序后: ", quick_sort(gList))
+
+    print(quicksort(gList))
