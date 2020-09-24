@@ -123,10 +123,22 @@ SQL vs. NoSQL
 
 # 十一、自动化运维
 
-- [ansible](https://github.com/ansible/ansible)
-
-- [Ansible中文权威指南](http://ansible.com.cn/)
-
+- 自动化运维工具 -- [Ansible](https://github.com/ansible/ansible)
+	- [Ansible中文权威指南](http://ansible.com.cn/)
+- 定时任务模块-- [APScheduler](https://github.com/agronholm/apscheduler)，Advanced Python Scheduler
+	- [APScheduler用户手册]（https://apscheduler.readthedocs.io/en/stable/）
+- 执行远程命令 -- Paramiko，A Python implementation of SSHv2.
+	- [Paramiko’s文档](http://docs.paramiko.org/en/stable/)
+- 分布式任务队列 -- [Celery](https://github.com/celery/celery)
+	- [Celery文档](https://docs.celeryproject.org/en/stable/)
+	- [Celery中文手册](https://www.celerycn.io/)
+- 任务调度神器 -- [Airflow](https://github.com/apache/airflow)
+	- [Airflow文档](http://airflow.apache.org/docs/stable/)
+- [Docker](https://github.com/docker)
+	- [Docker —— 从入门到实践](https://yeasy.gitbook.io/docker_practice/)
+- [Kubernetes](https://github.com/kubernetes/kubernetes)
+	- [英文文档](https://kubernetes.io/docs/home/)
+	- [中文文档](http://docs.kubernetes.org.cn/227.html)
 
 # 十二、自动化测试
 
