@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a5a7212-47ff-4389-98ce-33a6bddaae9b" name="Default Changelist" comment="update 排序算法">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -280,6 +280,7 @@
       <workItem from="1600330022279" duration="282000" />
       <workItem from="1600339526323" duration="234000" />
       <workItem from="1600646909059" duration="643000" />
+      <workItem from="1600949115273" duration="11000" />
     </task>
     <task id="LOCAL-00001" summary="判断一个字符串中的所有字符是否唯一">
       <created>1578316702769</created>
