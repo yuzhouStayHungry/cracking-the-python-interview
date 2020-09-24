@@ -91,17 +91,20 @@ SQL vs. NoSQL
 
 # 七、Python Web框架
 
-## Flask
+## [Flask](https://github.com/pallets/flask)
 
-## Django
+- [Flask文档](https://flask.palletsprojects.com/en/1.1.x/)
 
+## [Django](https://www.djangoproject.com/)
+
+- [Django3.1文档](https://docs.djangoproject.com/en/3.1/)
 - [Django 入门笔记](https://blog.csdn.net/yuzhou_1shu/category_9419274.html)
 - Django 进阶
 - [Django API开发](https://yuzhoustayhungry.github.io/tags/django/)
 
-## Tornado
+## [Tornado](https://github.com/tornadoweb/tornado)
 
-# 
+- [Tornado文档](https://www.tornadoweb.org/en/stable/)
 
 # 八、编程思想
 
@@ -126,7 +129,7 @@ SQL vs. NoSQL
 - 自动化运维工具 -- [Ansible](https://github.com/ansible/ansible)
 	- [Ansible中文权威指南](http://ansible.com.cn/)
 - 定时任务模块-- [APScheduler](https://github.com/agronholm/apscheduler)，Advanced Python Scheduler
-	- [APScheduler用户手册]（https://apscheduler.readthedocs.io/en/stable/）
+	- [APScheduler用户手册](https://apscheduler.readthedocs.io/en/stable/)
 - 执行远程命令 -- Paramiko，A Python implementation of SSHv2.
 	- [Paramiko’s文档](http://docs.paramiko.org/en/stable/)
 - 分布式任务队列 -- [Celery](https://github.com/celery/celery)
