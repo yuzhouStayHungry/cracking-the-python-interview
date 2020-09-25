@@ -14,13 +14,14 @@ Python求职面试经验宝典，待🥣完整...
 - [四、操作系统](#四操作系统)
 - [五、网络编程](#五网络编程)
 - [六、数据库](#六数据库)
-- [七、Python Web框架](#七python-web框架)
+- [七、Python Web开发](#七python-web开发)
 - 八、编程思想
 - [九、爬虫](#八爬虫)
 - [十、数据分析](#九数据分析)
-- 十一、自动化运维
-- 十二、自动化测试
-- 十三、其他
+- 十一、运维
+- 十二、测试
+- 十三、人工智能
+- 其他
 
 # 一、Python语法相关
 
@@ -75,9 +76,13 @@ Python求职面试经验宝典，待🥣完整...
 
 # 四、操作系统
 
+## 线程与进程
+
 - [操作系统核心知识点总结](https://github.com/yuzhouStayHungry/the_Element_Of_IT_Interview/blob/master/2020%E6%A0%B8%E5%BF%83%E9%9D%A2%E8%AF%95%E9%A2%98--%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.md)
 
 > [为什么校招面试中“线程与进程的区别”老是被问到?我该如何回答？](https://zhuanlan.zhihu.com/p/125716637)
+
+- Linux常见问题和命令
 
 # 五、网络编程
 
@@ -86,6 +91,9 @@ Python求职面试经验宝典，待🥣完整...
 # 六、数据库
 
 - [数据库必看知识点](https://github.com/yuzhouStayHungry/the_Element_Of_IT_Interview/blob/master/2020%E6%A0%B8%E5%BF%83%E9%9D%A2%E8%AF%95%E9%A2%98--MySQL.md)
+- MySQL
+- Redis
+- MongoDB
 
 SQL vs. NoSQL
 
@@ -120,15 +128,24 @@ SQL vs. NoSQL
 
 # 九、爬虫
 
+- 数据抓取 -- urllib 和 requests
+- 数据清洗 -- 字符串操作、正则表达式、Beautiful Soup
+- Scrapy
+- Selenium
+- 分布式爬虫
+
 # 十、数据分析
 
+- 科学计算库 -- Numpy
+- 数据分析处理库 -- Pandas
+- 数据可视化库 -- Matplotlib
+- 数学分析常见算法
 
-
-# 十一、自动化运维
+# 十一、运维
 
 - 自动化运维工具 -- [Ansible](https://github.com/ansible/ansible)
 	- [Ansible中文权威指南](http://ansible.com.cn/)
-- 定时任务模块-- [APScheduler](https://github.com/agronholm/apscheduler)，Advanced Python Scheduler
+- 定时任务模块 -- [APScheduler](https://github.com/agronholm/apscheduler)，Advanced Python Scheduler
 	- [APScheduler用户手册](https://apscheduler.readthedocs.io/en/stable/)
 - 执行远程命令 -- Paramiko，A Python implementation of SSHv2.
 	- [Paramiko’s文档](http://docs.paramiko.org/en/stable/)
@@ -143,10 +160,31 @@ SQL vs. NoSQL
 	- [英文文档](https://kubernetes.io/docs/home/)
 	- [中文文档](http://docs.kubernetes.org.cn/227.html)
 
-# 十二、自动化测试
+# 十二、测试
+
+- 测试基础
+- TDD(Test-Driven Development)
+- 并发测试
+- 自动化测试
+- [UnitTest](https://docs.python.org/3/library/unittest.html)测试框架
+- [Jenkins](https://www.jenkins.io/)持续集成
 
 
+
+# 十三、人工智能
+
+- 机器学习
+- 深度学习
+- 自然语言处理
+- 图像处理
+- Tensorflow
+- Scikit-learn
 
 # 其它
 
+- 简历撰写
+- 软技能
+- ...
+
 ## 面试经验
+
